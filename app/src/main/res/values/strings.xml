@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieInfo</string>
+    <string name="error">Error</string>
+    <string name="network_error">A network error has occurred. Please make sure your device is connected to the internet</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="connection_timeout">Connection has timed out</string>
+    <string name="release_date">Release date</string>
+    <string name="latest">Latest</string>
+    <string name="oldest">Oldest</string>
+    <string name="rating">Rating</string>
+    <string name="cast">Cast</string>
+
+</resources>
